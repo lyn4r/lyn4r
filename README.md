@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, welcome to my Github space, wanderer! 
+Disclosures, PoCs and stuff related to my cysec research.
