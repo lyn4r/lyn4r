@@ -1,6 +1,6 @@
 ## Howdy!
 ### Welcome to my Github space, wanderer! 
-#### Disclosures, PoCs and stuff related to my cysec research.
+#### [Disclosures](https://github.com/lyn4r/disclosures), PoCs and stuff related to my cysec research.
 
 
 
