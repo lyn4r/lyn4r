@@ -1,4 +1,8 @@
-## Hi there 👋
+## Howdy!
+### Welcome to my Github space, wanderer! 
+#### Disclosures, PoCs and stuff related to my cysec research.
+
+
 
 <!--
 **lyn4r/lyn4r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,5 +19,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, welcome to my Github space, wanderer! 
-Disclosures, PoCs and stuff related to my cysec research.
